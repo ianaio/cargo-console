@@ -32,8 +32,8 @@ fulfill:
 
 Team members sign off on design proposals and review pull requests to IanaIO.
 
-* `@jstarry`
-* `@hamza1311`
+* `@cichy`
+...
 
 If you make a handful of significant contributions to IanaIO and participate in
 design proposals, then maybe you should be a team member! Think you or someone
