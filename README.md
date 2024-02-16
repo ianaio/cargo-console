@@ -11,7 +11,7 @@ fulfill:
   ```
 
 * [ ] The `authors` entry in `ianaio/crates/foobar/Cargo.toml` is "The Rust and
-  WebAssembly Working Group".
+  WebAssembly along with IanaIO Working Group".
 
 * [ ] Uses [`unwrap_throw` and `expect_throw`][unwrap-throw] instead of normal
   `unwrap` and `expect`.
